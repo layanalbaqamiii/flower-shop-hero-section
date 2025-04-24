@@ -11,7 +11,7 @@ A hero section for a flower shop landing page built with **HTML** and **CSS**. T
 - CSS3 
 
 ## 📸 Screenshots
-![Screenshot](images/flower1.jpg) 
+![Screenshot](images/flower1.png) 
 
 ## 📁 Folder Structure
 flower-shop-hero-section/ 
