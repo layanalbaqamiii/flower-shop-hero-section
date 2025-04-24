@@ -24,5 +24,5 @@ flower-shop-hero-section/
 
 
 ## 🧑‍💻 Author
-**Layan Al-Baqamii**  
+**Layan Al-Baqami**  
 [@layanalbaqamiii](https://github.com/layanalbaqamiii)
